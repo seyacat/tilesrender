@@ -13,6 +13,8 @@ This addon functions inside a Dropbox enviroment. So the first thing you should 
 
 Everyone involved in the Render Sharing Process should open the File from that folder and the file owner will leave the Active Tilerender Box empty while the rest of the partners will tick that box.
 
+<a href="http://es.tinypic.com?ref=a3m61d" target="_blank"><img src="http://i67.tinypic.com/a3m61d.png" border="0" alt="Image and video hosting by TinyPic"></a>
+
 The interface it's simple. Just press Render and the Render Sharing Process will start.
 
 A new file will be created in the shared Dropbox file called "TilesRender" where all the tiles from every partner will be placed.
