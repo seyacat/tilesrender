@@ -1,6 +1,6 @@
 bl_info = {
     "name": "TileRender: Tile render frame by border",
-    "author": "seyacat (Santiago Andrade)",
+    "author": "seyacat (Santiago Andrade), Joni Mercado",
     "version": (1, 3),
     "blender": (2, 78, 0),
     "location": "View3D > Toolshelf > Edit Linked Library",
